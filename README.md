@@ -1,8 +1,9 @@
 # Monish Kumar's Portfolio Website - v1.0 🚀
 
-### 🔗 [Live Demo](https://yourportfolio.link/)  
+### 🔗 [Live Demo](https://imonishkumarportfolio.netlify.app/)  
 
-![Portfolio Screenshot](./Images/readme-img1.png)
+![Portfolio Screenshot](./Images/img1.png)
+![Portfolio Screenshot](./Images/img2.png)
 
 ## 🌟 Introduction
 
