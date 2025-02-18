@@ -2,8 +2,8 @@
 
 ### 🔗 [Live Demo](https://imonishkumarportfolio.netlify.app/)  
 
-![Portfolio Screenshot](./Images/img1.png)
-![Portfolio Screenshot](./Images/img2.png)
+![Portfolio Screenshot](./images/img1.png)
+![Portfolio Screenshot](./images/img2.png)
 
 ## 🌟 Introduction
 
